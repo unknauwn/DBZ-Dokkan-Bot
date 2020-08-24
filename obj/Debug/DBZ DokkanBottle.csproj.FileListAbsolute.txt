@@ -1,0 +1,18 @@
+c:\users\lanon\documents\visual studio 2015\Projects\DBZ DokkanBottle\DBZ DokkanBottle\bin\Debug\DBZ DokkanBottle.exe.config
+c:\users\lanon\documents\visual studio 2015\Projects\DBZ DokkanBottle\DBZ DokkanBottle\bin\Debug\DBZ DokkanBottle.exe
+c:\users\lanon\documents\visual studio 2015\Projects\DBZ DokkanBottle\DBZ DokkanBottle\bin\Debug\DBZ DokkanBottle.pdb
+c:\users\lanon\documents\visual studio 2015\Projects\DBZ DokkanBottle\DBZ DokkanBottle\obj\Debug\DBZ DokkanBottle.csprojResolveAssemblyReference.cache
+c:\users\lanon\documents\visual studio 2015\Projects\DBZ DokkanBottle\DBZ DokkanBottle\obj\Debug\DBZ_DokkanBottle.Form1.resources
+c:\users\lanon\documents\visual studio 2015\Projects\DBZ DokkanBottle\DBZ DokkanBottle\obj\Debug\DBZ_DokkanBottle.Properties.Resources.resources
+c:\users\lanon\documents\visual studio 2015\Projects\DBZ DokkanBottle\DBZ DokkanBottle\obj\Debug\DBZ DokkanBottle.csproj.GenerateResource.Cache
+c:\users\lanon\documents\visual studio 2015\Projects\DBZ DokkanBottle\DBZ DokkanBottle\obj\Debug\DBZ DokkanBottle.exe
+c:\users\lanon\documents\visual studio 2015\Projects\DBZ DokkanBottle\DBZ DokkanBottle\obj\Debug\DBZ DokkanBottle.pdb
+C:\Users\Artistiks\Desktop\DBZ DokkanBottle\DBZ DokkanBottle\obj\Debug\DBZ DokkanBottle.csprojResolveAssemblyReference.cache
+C:\Users\Artistiks\Desktop\DBZ DokkanBottle\DBZ DokkanBottle\obj\Debug\DBZ_DokkanBottle.Form1.resources
+C:\Users\Artistiks\Desktop\DBZ DokkanBottle\DBZ DokkanBottle\obj\Debug\DBZ_DokkanBottle.Properties.Resources.resources
+C:\Users\Artistiks\Desktop\DBZ DokkanBottle\DBZ DokkanBottle\obj\Debug\DBZ DokkanBottle.csproj.GenerateResource.Cache
+C:\Users\Artistiks\Desktop\DBZ DokkanBottle\DBZ DokkanBottle\obj\Debug\DBZ DokkanBottle.exe
+C:\Users\Artistiks\Desktop\DBZ DokkanBottle\DBZ DokkanBottle\obj\Debug\DBZ DokkanBottle.pdb
+C:\Users\Artistiks\Desktop\DBZ DokkanBottle\DBZ DokkanBottle\bin\Debug\DBZ DokkanBottle.exe.config
+C:\Users\Artistiks\Desktop\DBZ DokkanBottle\DBZ DokkanBottle\bin\Debug\DBZ DokkanBottle.exe
+C:\Users\Artistiks\Desktop\DBZ DokkanBottle\DBZ DokkanBottle\bin\Debug\DBZ DokkanBottle.pdb
